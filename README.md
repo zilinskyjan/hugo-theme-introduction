@@ -54,7 +54,7 @@ Then edit the markdown files with the content you'd like shown in your main page
 Use Hugo's built-in server to see your site in action as you make changes.
 
 ```
-$ hugo serve -t introduction
+$ hugo server -t introduction
 ```
 
 Visit `localhost:1313` in your browser to see a live preview of your site.
